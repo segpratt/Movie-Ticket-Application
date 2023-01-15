@@ -1,0 +1,12 @@
+.App .navbar-brand
+{
+  font-size: 30px;
+}
+
+a {
+  color: grey;
+}
+
+a:hover {
+  color: black;
+}
